@@ -1,0 +1,7 @@
+Sum=3+2
+si
+cad="Hola mundo
+res=3-4;
++3
+
+

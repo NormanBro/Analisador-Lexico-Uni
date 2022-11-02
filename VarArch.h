@@ -1,0 +1,7 @@
+#ifndef VARARCH_H_INCLUDED
+#define VARARCH_H_INCLUDED
+
+    FILE *Arch;
+
+
+#endif // VARARCH_H_INCLUDED

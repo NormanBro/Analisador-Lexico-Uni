@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1667177765 source:c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Position.h"
+	"VariablesPublic.h"
+	"VarArch.h"
+	"TokensStruct.h"
+	"AutoAnalisis.h"
+
+1665256691 c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\vararch.h
+
+1665708420 source:c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\tokensstruct.c
+	<stdio.h>
+	<stdlib.h>
+	"TokensStruct.h"
+
+1665267335 c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\tokensstruct.h
+
+1667175092 c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\autoanalisis.h
+	"TokensStruct.h"
+
+1667179042 source:c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\autoanalisis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Position.h"
+	"VariablesPublic.h"
+	"AutoAnalisis.h"
+	"VarArch.h"
+	"VerifPalRes.h"
+	"TokensStruct.h"
+
+1665715465 source:c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\position.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Position.h"
+
+1665266613 c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\position.h
+
+1665269400 c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\verifpalres.h
+
+1665711900 source:c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\verifpalres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"VerifPalRes.h"
+
+1665881809 c:\users\jhosm\desktop\programas\c\analixadorlexicomejorado\variablespublic.h
+
